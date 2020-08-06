@@ -910,6 +910,7 @@ body.light hr.separator {
 
 .portfolio .slideshow a {
   text-decoration: underline;
+   color: white !important;
 }
 
 .portfolio .slideshow figcaption {
@@ -922,6 +923,7 @@ body.light hr.separator {
   font-weight: 700;
   text-align: center;
   font-size: 33px;
+  color: white !important;
 }
 
 /* Embedded Videos */
@@ -1833,4 +1835,7 @@ body.light hr.separator {
   .separator.mt-1 {
     margin-top: 35px !important;
   }
+}
+h3 {
+  color: white;
 }
